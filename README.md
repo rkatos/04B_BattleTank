@@ -6,6 +6,8 @@ The second go round on Battle Tank
 * I understand much more about Unreal
 * My true passion is to have programming dexterity
 
+Now, custom actions, edit with notepad works!
+
 Skill | Level
 --------|-------
 C++ | Beginner
