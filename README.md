@@ -12,3 +12,5 @@ C++ | Beginner
 Unreal | Intermediate
 3D | Intermediate
 Materials | Intermediate
+Blueprint | Beginner
+
